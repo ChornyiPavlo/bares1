@@ -703,6 +703,14 @@ h1, h2, h3, h4 {
     font-size: 2rem;
   }
 
+  .item-content-x9k2 .image-left img,
+  .item-content-x9k2 .image-right img,
+  .item-content-x9k2 .item-img-x9k2,
+  .item-content-x9k2 .image-right p,
+  .item-content-x9k2 .image-left p {
+    width: 100%;
+  }
+
   .card-x9k2 {
     width: 160px;
     height: 100px;
